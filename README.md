@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Duvan
+# 👋 Hi there, I'm Louis
 
 ## 🚀 Full Stack Developer & Designer
 
